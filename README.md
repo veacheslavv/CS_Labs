@@ -15,6 +15,7 @@
 | --- | --- |
 | `caesar_cipher.py` | The program: alphabet encoding, input validation, both ciphers, console menu |
 | `test_caesar_cipher.py` | Unit tests |
+| `screenshots/` | Screenshots of the running program used in the report |
 
 ## How to run
 
@@ -31,3 +32,21 @@ python -m unittest -v test_caesar_cipher
 | --- | --- | --- | --- |
 | 1.1 | k = 3 | Criptografie și securitate | FTKSVRÎTBIKHUKȚHFXTKVBVH |
 | 1.2 | k1 = 5, k2 = CRIPTOGRAFIE | Țara mea Moldova | YBGBȚHBȚĂȘLĂCB |
+
+## Screenshots
+
+**Task 1.1 — encryption and decryption**
+
+![Task 1.1 encryption and decryption](screenshots/fig1_task1_1_encrypt_decrypt.png)
+
+**Task 1.1 — invalid key and invalid character**
+
+![Task 1.1 invalid input](screenshots/fig2_task1_1_invalid_input.png)
+
+**Task 1.2 — permuted alphabet, encryption and decryption**
+
+![Task 1.2 encryption and decryption](screenshots/fig3_task1_2_encrypt_decrypt.png)
+
+**Task 1.2 — invalid key, short keyword and invalid character**
+
+![Task 1.2 invalid input](screenshots/fig4_task1_2_invalid_input.png)
