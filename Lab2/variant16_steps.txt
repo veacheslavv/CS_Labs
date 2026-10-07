@@ -1,0 +1,9 @@
+V=e W=t          # the two most frequent letters V and W -> English e and t
+Q=h              # 'tQe' is the most frequent word (44 times) -> 'the'
+T=a G=n O=d      # one-letter word 'T' (15 times) -> 'a'; 'TGO' (18 times) -> 'and'
+N=o C=f X=i      # 'NC' (28 times) -> 'of'; 'Xt', 'XG' -> 'it', 'in'
+S=l J=g I=r U=p  # 'teSeJIaUh' (8 times) -> 'telegraph'
+R=w P=s          # 'Rith' -> 'with', then 'waP' -> 'was'
+H=c F=y Z=m      # 'HrFptographF' -> 'cryptography'; 'sFsteZ' -> 'system'
+D=u A=b K=v      # 'Dse' -> 'use'; 'Aeing' -> 'being'; 'deKelopment' -> 'development'
+B=q L=k E=j Y=x M=z  # 'BuicLly' -> 'quickly'; 'Eefferson' -> 'Jefferson'; 'eYcept' -> 'except'; 'specialiMed' -> 'specialized'
